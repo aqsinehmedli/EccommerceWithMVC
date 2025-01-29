@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\bin\Debug\net8.0\Eccomerce.Repository.deps.json
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\bin\Debug\net8.0\Eccomerce.Repository.runtimeconfig.json
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\bin\Debug\net8.0\Eccomerce.Repository.dll
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\bin\Debug\net8.0\Eccomerce.Repository.pdb
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\Eccomerce.Repository.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\Eccomerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\Eccomerce.Repository.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\Eccomerce.Repository.AssemblyInfo.cs
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\Eccomerce.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\Eccomerce.Repository.dll
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\refint\Eccomerce.Repository.dll
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\Eccomerce.Repository.pdb
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\Eccomerce.Repository.genruntimeconfig.cache
+C:\Users\User\source\repos\ECommerce.WebUI\Eccomerce.Repository\obj\Debug\net8.0\ref\Eccomerce.Repository.dll
