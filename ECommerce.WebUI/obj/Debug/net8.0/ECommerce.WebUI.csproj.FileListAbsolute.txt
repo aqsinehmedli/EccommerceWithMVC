@@ -142,3 +142,4 @@ C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.WebUI\bin\Debug\net8.0\ECom
 C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.WebUI\bin\Debug\net8.0\ECommerce.Application.pdb
 C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.WebUI\bin\Debug\net8.0\ECommerce.DataAccess.pdb
 C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.WebUI\bin\Debug\net8.0\ECommerce.Repository.pdb
+C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.WebUI\obj\Debug\net8.0\ECommerce.WebUI.sourcelink.json

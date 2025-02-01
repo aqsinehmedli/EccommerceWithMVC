@@ -13,3 +13,4 @@ C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.Repository\obj\Debug\net8.0
 C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.Repository\obj\Debug\net8.0\refint\ECommerce.Repository.dll
 C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.Repository\obj\Debug\net8.0\ECommerce.Repository.pdb
 C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.Repository\obj\Debug\net8.0\ref\ECommerce.Repository.dll
+C:\Users\User\source\repos\ECommerce.WebUI\ECommerce.Repository\obj\Debug\net8.0\ECommerce.Repository.sourcelink.json

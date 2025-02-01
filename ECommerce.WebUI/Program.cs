@@ -1,4 +1,5 @@
 using ECommerce.Application.Abstract;
+using ECommerce.Application.Concret;
 using ECommerce.Application.Concrete;
 using ECommerce.DataAccess.Abstract;
 using ECommerce.DataAccess.Context;
@@ -11,6 +12,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<ICategoryDal, EFCategoryDal>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<IProductDal,EFProductDal>();	
+builder.Services.AddScoped<IProductService,ProductService>();
 
 var connection = builder.Configuration.GetConnectionString("DefaultConnection");
 
@@ -38,6 +41,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
 	name: "default",
-	pattern: "{controller=Home}/{action=Index}/{id?}");
+	pattern: "{controller=Product}/{action=Index}/{id?}");
 
 app.Run();

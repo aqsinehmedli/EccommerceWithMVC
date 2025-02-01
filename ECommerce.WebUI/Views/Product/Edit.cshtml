@@ -1,0 +1,97 @@
+﻿@* @model ProductAddViewModel;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Edit Product</title>
+</head>
+<body>
+	<h1>Edit Product</h1>
+	<form asp-controller="Product" asp-action="Edit" method="post">
+		<section>
+			<div>
+				<label for="ProductName">ProductName:</label>
+				<input type="text" id="Product.ProductName" name="Product.ProductName" value="@Model?.Product.ProductName" required />
+				<span asp-validation-for="Product.ProductName" style="color:red;"></span>
+			</div>
+			<div>
+				<label for="UnitPrice">UnitPrice:</label>
+				<input type="number" id="Product.UnitPrice" name="Product.UnitPrice" value="@Model?.Product.UnitPrice" required />
+				<span asp-validation-for="Product.UnitPrice" style="color:red;"></span>
+			</div>
+			<div>
+				<label for="Price">Price:</label>
+				<input type="number" id="Product.UnitsInStock" name="Product.UnitsInStock" value="@Model?.Product.UnitsInStock" required />
+				<span asp-validation-for="Product.UnitsInStock" style="color:red;"></span>
+			</div>
+			<div class="form-group">
+				<label for="exampleFormControlSelect1">Example select</label>
+				<select asp-for="Product.CategoryId" class="form-control" id="exampleFormControlSelect1">
+					@foreach (var item in Model?.Categories)
+					{
+						<option value="@item.CategoryId">@item.CategoryName</option>
+					}
+				</select>
+			</div>
+			<div>
+				<button type="submit">Save</button>
+				<a asp-action="Index" asp-controller="Product">Cancel</a>
+			</div>
+		</section>
+	</form>
+</body>
+</html>  *@
+
+
+
+@model ProductAddViewModel;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Edit Product</title>
+</head>
+<body>
+	<h1>Edit Product</h1>
+	<form asp-controller="Product" asp-action="Edit" method="post">
+		<input type="hidden" asp-for="Product.ProductId" /> <!-- ID gizli input olmalıdır -->
+
+		<section>
+			<div>
+				<label>Product Name:</label>
+				<input type="text" asp-for="Product.ProductName" required />
+				<span asp-validation-for="Product.ProductName" style="color:red;"></span>
+			</div>
+
+			<div>
+				<label>Unit Price:</label>
+				<input type="number" asp-for="Product.UnitPrice" required />
+				<span asp-validation-for="Product.UnitPrice" style="color:red;"></span>
+			</div>
+
+			<div>
+				<label>Units In Stock:</label>
+				<input type="number" asp-for="Product.UnitsInStock" required />
+				<span asp-validation-for="Product.UnitsInStock" style="color:red;"></span>
+			</div>
+
+			<div class="form-group">
+				<label>Category:</label>
+				<select asp-for="Product.CategoryId" class="form-control">
+					@foreach (var item in Model?.Categories)
+					{
+						<option value="@item.CategoryId">@item.CategoryName</option>
+					}
+				</select>
+			</div>
+
+			<div>
+				<button type="submit">Save</button>
+				<a asp-action="Index" asp-controller="Product">Cancel</a>
+			</div>
+		</section>
+	</form>
+</body>
+</html>
