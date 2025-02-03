@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\models\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\productaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\views\\product\\updatee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\product\\updatee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\models\\productdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\productdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\models\\productupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\productupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F27BC909-5B87-41E6-B5BF-8C75FEBAE75F}|ECommerce.WebUI\\ECommerce.WebUI.csproj|c:\\users\\user\\source\\repos\\ecommerce.webui\\ecommerce.webui\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,65 +82,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Models\\ProductUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductUpdateViewModel.cs*",
+              "RelativeToolTip": "ECommerce.WebUI\\Models\\ProductUpdateViewModel.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:20:19.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Product\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "ECommerce.WebUI\\Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAAEwAAAAAAAAAAADwv2EAAAAAAAAAAAAAAA==",
+              "Title": "Updatee.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Updatee.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Product\\Updatee.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Updatee.cshtml*",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Product\\Updatee.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-01T20:18:01.352Z",
+              "WhenOpened": "2025-02-03T20:18:57.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T19:42:03.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Models\\ProductDeleteViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductDeleteViewModel.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Models\\ProductDeleteViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:35:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "ECommerce.WebUI\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Index.cshtml*",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Product\\Index.cshtml*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-30T07:39:48.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Add.cshtml",
-              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Product\\Add.cshtml",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Add.cshtml",
-              "RelativeToolTip": "ECommerce.WebUI\\Views\\Product\\Add.cshtml",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T07:28:29.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductAddViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductAddViewModel.cs",
-              "RelativeDocumentMoniker": "ECommerce.WebUI\\Models\\ProductAddViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductAddViewModel.cs",
-              "RelativeToolTip": "ECommerce.WebUI\\Models\\ProductAddViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T07:21:01.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "ECommerce.WebUI\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-30T06:44:49.554Z",
               "EditorCaption": ""
@@ -143,20 +164,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductListViewModel.cs",
-              "RelativeDocumentMoniker": "ECommerce.WebUI\\Models\\ProductListViewModel.cs",
-              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductListViewModel.cs",
-              "RelativeToolTip": "ECommerce.WebUI\\Models\\ProductListViewModel.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T06:44:28.546Z",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Product\\Add.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "ECommerce.WebUI\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T14:55:36.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
@@ -164,12 +185,23 @@
               "RelativeToolTip": "ECommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-30T06:55:08.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T06:55:08.175Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "ProductListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductListViewModel.cs",
+              "RelativeDocumentMoniker": "ECommerce.WebUI\\Models\\ProductListViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\ProductListViewModel.cs",
+              "RelativeToolTip": "ECommerce.WebUI\\Models\\ProductListViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:44:28.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CategoryListViewComponent.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\ViewComponents\\CategoryListViewComponent.cs",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\ViewComponents\\CategoryListViewComponent.cs",
@@ -177,12 +209,11 @@
               "RelativeToolTip": "ECommerce.WebUI\\ViewComponents\\CategoryListViewComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T06:45:46.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-30T06:45:46.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CategoryListViewModel.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Models\\CategoryListViewModel.cs",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Models\\CategoryListViewModel.cs",
@@ -194,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Program.cs",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Program.cs",
@@ -206,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\_ViewStart.cshtml",
@@ -218,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\_ViewImports.cshtml",
@@ -230,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
@@ -242,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ECommerce.WebUI\\ECommerce.WebUI\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerce.WebUI\\appsettings.json",

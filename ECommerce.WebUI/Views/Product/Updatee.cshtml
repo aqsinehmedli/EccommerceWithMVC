@@ -1,0 +1,18 @@
+﻿@model ProductUpdateViewModel
+
+<form asp-action="Update" method="post">
+    <input type="hidden" asp-for="Product.ProductId" />
+    <div>
+        <label asp-for="Product.ProductName"></label>
+        <input asp-for="Product.ProductName" />
+    </div>
+    <div>
+        <label asp-for="Product.UnitPrice"></label>
+        <input asp-for="Product.UnitPrice" />
+    </div>
+	<div>
+        <label asp-for="Product.UnitsInStock"></label>
+        <input asp-for="Product.UnitsInStock" />
+    </div>
+    <button type="submit">Save</button>
+</form>

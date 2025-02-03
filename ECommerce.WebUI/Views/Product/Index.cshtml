@@ -3,12 +3,6 @@
 	<p class="p-md-1 m-md-1">
 		<a href="/product/add" class="btn btn-outline-primary">Create New</a>
 	</p>
-	<p class="p-md-1 m-md-1">
-		<a href="/product/add" class="btn btn-outline-primary">Update</a>
-	</p>
-	<p class="p-md-1 m-md-1">
-		<a class="btn btn-outline-primary">Delete</a>
-	</p>
 </div>
 
 <table class="table">
@@ -30,11 +24,17 @@
 					<a class="btn btn-xs btn-success">Add to Card</a>
 				</td>
 				<td>
-					<button href="/Product/Add" type="submit" class="btn btn-xs btn-success">
-						<a>
-							<a asp-action="Add" asp-controller="Product">Edit</a>
-						</a>
-					</button>
+					<div class="d-flex">
+					<p class="p-md-1 m-md-1">
+						<a href="/product/add" class="btn btn-outline-primary">Create New</a>
+					</p>
+					<p class="p-md-1 m-md-1">
+						<a href="/product/updatee" class="btn btn-outline-primary">Edit</a>
+					</p>
+					<p class="p-md-1 m-md-1">
+						<a href="/product/delete" class="btn btn-outline-primary">Delete</a>
+					</p>
+					</div>
 				</td>
 			</tr>
 		}
